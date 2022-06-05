@@ -2,7 +2,8 @@
 
 This script is related to this one: Zip_Uploader - https://github.com/Temoli/Zip_Uploader  
 
-User starts script and adds units (unit names and unit codes). In units folder script will create directory tree like this:  
+On first run scrip will create three folders: Units, Zips and Tmp  
+User by selecting '1' in menu can add unit by providing _unit name_ and _unit code_. It will create directory tree in Units folder:  
 ```bash
 └── Units  
    └── _unit_name_  
