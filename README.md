@@ -27,4 +27,4 @@ Option '5' in menu will compress all documents. A few changes will be made durin
  
 Before compression starts script will ask user about zip file start number  
 User has o check if something is in waiting/ folder in Zip_Uploader script which is constantly running on our team shared drive. If folder is empty user types 1, if something is in queue user has to type the next number after that one in queue. For example if last file in waiting is 05_xxx.zip then user types 6  
-Documents are compressed and zip file appears in zips/ folder. Then this file has to be moved to waiting/ folder in Zip_Uploader location
+Documents are compressed and zip files will appear in Zips/ folder. Then this file has to be moved to waiting/ folder in Zip_Uploader location
